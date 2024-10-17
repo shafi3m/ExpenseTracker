@@ -40,4 +40,4 @@ To switch between light and dark mode, Tailwind’s dark mode configuration is u
 ![Expense Tracker Screenshot](/lightmode_demo.webp)
 
 **Demo**
-[Click Here to view]()
+[Click Here to view](https://shafi3m.github.io/ExpenseTracker/)
