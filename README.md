@@ -2,12 +2,12 @@
 A simple web-based Expense Tracker app built with HTML, CSS (TailwindCSS), and JavaScript. The app allows users to add, display, and track their daily expenses. It includes features like dark mode, live date display, and a clean user interface to manage your expenses efficiently.
 
 ## 🚀 Features
-### Expense Tracking: Add, view, and track your expenses with a total expense summary.
-### Dark Mode: Toggle between light and dark mode for better user experience.
-### Live Date Display: The app shows the current date at the top of the interface.
-### Clear All Expenses: Easily reset your list of expenses with one click.
-### Local Storage: Automatically saves your expenses in the browser's local storage, allowing you to persist data even after refreshing the page.
-### Responsive Design: Works seamlessly on both desktop and mobile devices.
+Expense Tracking: Add, view, and track your expenses with a total expense summary.
+Dark Mode: Toggle between light and dark mode for better user experience.
+Live Date Display: The app shows the current date at the top of the interface.
+Clear All Expenses: Easily reset your list of expenses with one click.
+Local Storage: Automatically saves your expenses in the browser's local storage, allowing you to persist data even after refreshing the page.
+Responsive Design: Works seamlessly on both desktop and mobile devices.
 
 ## 📚 Tech Stack
 HTML5: Structuring the web page.
